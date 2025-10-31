@@ -1,10 +1,10 @@
 Project Name-Plant Shop
+
+
 Technologies Used
 
- React
- Vite
- JavaScript
- HTML/CSS
+ React,
+ Tailwind css
 
 Installation
 1. Clone the repository: git clone https://github.com/SakshiGupta0309/flower_shop.git
